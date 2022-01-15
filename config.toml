@@ -1,0 +1,4 @@
+baseURL = 'https://mawolken.github.io'
+languageCode = 'en-us'
+title = 'Manses notes'
+theme = "hugo-theme-cleanwhite-rsy"
